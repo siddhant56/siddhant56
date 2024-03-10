@@ -1,8 +1,8 @@
 ### Hi there, I'm Siddhant 👋
 
-## I'm a Developer and a Beatboxer!!
+## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning Designing
+- 🌱 I’m currently learning Data structure and algorithms !!
 - ⚡ Fun fact: I love to beatbox and play games
 
 ### Connect with me:
