@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning Data structure and algorithms !!
 - ⚡ Fun fact: I love to beatbox and play games
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -30,14 +26,6 @@
 
 ---
 
-### 📺 Latest Repos
 
 
-- [Quiz In Angular](https://github.com/siddhant56/Quiz-Angular)
-- [React Native Begineer Projects](https://github.com/siddhant56/React-Native-Projects)
-
----
-
-
-
-[instagram]: https://instagram.com/sidrocks497
+[instagram]: [https://www.instagram.com/your.sid.2000]
